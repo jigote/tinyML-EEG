@@ -1,0 +1,13 @@
+name: tinyML-project
+channels:
+- conda-forge
+- defaults
+dependencies:
+- pandas
+- numpy
+- matplotlib
+- os
+- scipy
+- pathlib
+- tensorflow
+- boto3
